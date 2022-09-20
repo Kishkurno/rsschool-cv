@@ -20,5 +20,5 @@ __English:__
 
 __Contacts:__
 * email: kishkurno.mari@mail.ru
-* phone: +375295237948(Telegram)
+* phone: +375296237948(Telegram)
 
