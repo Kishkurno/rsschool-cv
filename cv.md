@@ -1,6 +1,11 @@
 <h1 style="text-align: center;"> - Kishkurno Maria - CV</h1>
 
-
+# About:
+ I am really passionate about Math, progpamming and design. 
+ I devote almost all my free time to improving my knowledge and technical skills. 
+ Recently started studying Front-end.
+ Now I am in the third year of BNTU at the Faculty of Information Technology and Robotics. Graduation year is 2024.
+ 
 __Roles:__ Front-end
 
 __Location:__ Belarus, Minsk
